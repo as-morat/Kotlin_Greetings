@@ -12,8 +12,10 @@ class MainActivity : ComponentActivity() {
         setContent {
             First_appTheme {
 
-                ColumnLayoutPrev()
+//                ColumnLayoutPrev()
 //                Counter()
+//                Box()
+//                LazyColumnPrev()
             }
         }
     }
