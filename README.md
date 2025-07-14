@@ -6,7 +6,7 @@ A simple greeting app built with Jetpack Compose to start my Android development
 - A welcome screen with greeting message
 - A counter screen with clickable button
 - Beautiful colors and fonts
-- Made with ❤️ using Kotlin
+- Made with Kotlin
 
 ## Screens 📱
 | Welcome Screen | Counter Screen |
