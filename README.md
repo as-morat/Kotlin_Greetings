@@ -11,7 +11,7 @@ A simple greeting app built with Jetpack Compose to start my Android development
 ## Screens 📱
 | Welcome Screen | Counter Screen |
 |----------------|----------------|
-| <img width="412" height="288" alt="image" src="https://github.com/user-attachments/assets/db8b3a9c-4ef8-4faf-83fe-d6da4fa3a509" />
+| <img width="412" height="238" alt="image" src="https://github.com/user-attachments/assets/db8b3a9c-4ef8-4faf-83fe-d6da4fa3a509" />
 | <img width="412" height="238" alt="image" src="https://github.com/user-attachments/assets/ff17a9ca-0b54-427c-8ef0-10cf04f0b7c2" /> |
 
 ## How It Works ⚙️
