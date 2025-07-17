@@ -14,8 +14,10 @@ class MainActivity : ComponentActivity() {
 
 //                ColumnLayoutPrev()
 //                Counter()
+//                Toggle()
 //                Box()
 //                LazyColumnPrev()
+                ParentCompose()
             }
         }
     }
