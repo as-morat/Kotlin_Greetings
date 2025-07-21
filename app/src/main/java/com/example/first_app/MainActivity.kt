@@ -3,7 +3,6 @@ package com.example.first_app
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
-
 import com.example.first_app.ui.theme.First_appTheme
 
 class MainActivity : ComponentActivity() {
@@ -17,7 +16,7 @@ class MainActivity : ComponentActivity() {
 //                Toggle()
 //                Box()
 //                LazyColumnPrev()
-                ParentCompose()
+//                ParentCompose()
             }
         }
     }

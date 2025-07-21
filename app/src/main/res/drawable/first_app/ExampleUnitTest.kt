@@ -1,4 +1,4 @@
-package com.example.first_app
+package drawable.first_app
 
 import org.junit.Test
 
